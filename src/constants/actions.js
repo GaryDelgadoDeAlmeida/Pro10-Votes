@@ -1,0 +1,2 @@
+export const ADD_CHOICES = "ADD_CHOICES";
+export const REBOOT_CHOICES = "REBOOT_CHOICES";
